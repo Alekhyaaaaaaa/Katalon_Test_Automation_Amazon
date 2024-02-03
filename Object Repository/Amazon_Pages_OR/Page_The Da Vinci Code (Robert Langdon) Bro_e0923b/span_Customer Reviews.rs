@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Customer Reviews</name>
+   <tag></tag>
+   <elementGuidId>a0894643-d8e5-4983-bc5d-7917486fc0af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='detailBulletsWrapper_feature_div']/ul[2]/li/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03989905-661f-4341-a1a8-1ac95ccc8e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-text-bold</value>
+      <webElementGuid>c6a58472-b705-4a77-9c39-ebb8b3f98472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Customer Reviews: </value>
+      <webElementGuid>c37da662-a382-4a76-a58a-3cd9923c16b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detailBulletsWrapper_feature_div&quot;)/ul[@class=&quot;a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list&quot;]/li[1]/span[@class=&quot;a-list-item&quot;]/span[@class=&quot;a-text-bold&quot;]</value>
+      <webElementGuid>6773661a-0137-48d1-bdaa-bb42a7add54f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detailBulletsWrapper_feature_div']/ul[2]/li/span/span</value>
+      <webElementGuid>76d39dd0-7163-40c6-a3a3-939035da20ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/span/span</value>
+      <webElementGuid>f0535652-01b7-44af-b136-0ff31830aa45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Customer Reviews: ' or . = ' Customer Reviews: ')]</value>
+      <webElementGuid>d9141ec4-c244-49f3-a477-8c28bcb2fcc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

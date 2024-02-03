@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot your password</name>
+   <tag></tag>
+   <elementGuidId>4066ad23-1e75-43b7-aab5-c42d01e9909c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#auth-fpp-link-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='auth-fpp-link-bottom']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8c6c0e19-bafe-4cf1-aefd-58599eacf271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>auth-fpp-link-bottom</value>
+      <webElementGuid>5760506b-989d-4851-9da2-596b8fe45f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>af354f41-0a47-4e03-80cf-c8720013060b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>81c02cf0-35a6-49ef-ac7d-57fac924ac89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.com/ap/forgotpassword?useMobileAsClaim=true&amp;showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;signInRedirectToFPPThreshold=3&amp;showMessageRatesApply=false&amp;pageId=usflex&amp;showSignInWithOTPButton=true&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=2PCHC8T55H5Y0H61A1CD&amp;openid.assoc_handle=usflex&amp;useSignInWithOTP=true&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=eyJjaXBoZXIiOiIyb2I2dWNHOEJZektKR2IxQ1FvOUhnPT0iLCJ2ZXJzaW9uIjoxLCJJViI6InVObHB1b1pTZGhoVTlWU0VwbmdhSEE9PSJ9&amp;failedSignInCount=0&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;timestamp=1706940821000</value>
+      <webElementGuid>0ae1155c-d0cc-4242-98f4-0039e15bf267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Forgot your password?
+</value>
+      <webElementGuid>09bcb60f-aa00-416d-9b15-a3e544e590e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;auth-fpp-link-bottom&quot;)</value>
+      <webElementGuid>fc398b59-d6ad-48f3-a9f3-cc03fb67855d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='auth-fpp-link-bottom']</value>
+      <webElementGuid>7583d504-1798-46d3-93ae-2d4003fcc771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div/div[2]/div/form/div/div/div/div[2]/a</value>
+      <webElementGuid>6a67e6c0-b825-4535-a2ae-2a49c0cd7f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot your password?')]</value>
+      <webElementGuid>869ac122-f9f3-41d0-8c2c-723dd44ce988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.com/ap/forgotpassword?useMobileAsClaim=true&amp;showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;signInRedirectToFPPThreshold=3&amp;showMessageRatesApply=false&amp;pageId=usflex&amp;showSignInWithOTPButton=true&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=2PCHC8T55H5Y0H61A1CD&amp;openid.assoc_handle=usflex&amp;useSignInWithOTP=true&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=eyJjaXBoZXIiOiIyb2I2dWNHOEJZektKR2IxQ1FvOUhnPT0iLCJ2ZXJzaW9uIjoxLCJJViI6InVObHB1b1pTZGhoVTlWU0VwbmdhSEE9PSJ9&amp;failedSignInCount=0&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;timestamp=1706940821000')]</value>
+      <webElementGuid>e55943e4-7bbc-4316-a42a-d056c50a8199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>eff67324-c9dd-4d0b-b1a8-c06f46e1b4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'auth-fpp-link-bottom' and @href = 'https://www.amazon.com/ap/forgotpassword?useMobileAsClaim=true&amp;showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;signInRedirectToFPPThreshold=3&amp;showMessageRatesApply=false&amp;pageId=usflex&amp;showSignInWithOTPButton=true&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=2PCHC8T55H5Y0H61A1CD&amp;openid.assoc_handle=usflex&amp;useSignInWithOTP=true&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=eyJjaXBoZXIiOiIyb2I2dWNHOEJZektKR2IxQ1FvOUhnPT0iLCJ2ZXJzaW9uIjoxLCJJViI6InVObHB1b1pTZGhoVTlWU0VwbmdhSEE9PSJ9&amp;failedSignInCount=0&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;timestamp=1706940821000' and (text() = '
+  Forgot your password?
+' or . = '
+  Forgot your password?
+')]</value>
+      <webElementGuid>01bc3295-b390-4b56-9942-4a17e212fdde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

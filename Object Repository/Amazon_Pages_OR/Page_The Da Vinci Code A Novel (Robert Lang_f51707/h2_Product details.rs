@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Product details</name>
+   <tag></tag>
+   <elementGuidId>b6a6ac5a-c1be-4a48-966d-440cf181ec26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='detailBulletsWrapper_feature_div']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#detailBulletsWrapper_feature_div > h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>cbbafdcb-7887-449a-b3c4-70840fff2d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product details</value>
+      <webElementGuid>c6dcac19-29cd-49e5-ab6a-12147561ec2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detailBulletsWrapper_feature_div&quot;)/h2[1]</value>
+      <webElementGuid>bd2ff573-c2c6-4e5b-b9e0-41d0ff59733a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detailBulletsWrapper_feature_div']/h2</value>
+      <webElementGuid>55bab018-0a8b-4122-98fc-3ce3acdb396d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div/h2</value>
+      <webElementGuid>1f30cf94-21c1-4b7d-8509-d033c7dce303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Product details' or . = 'Product details')]</value>
+      <webElementGuid>4090d2f5-08f9-404f-840a-5d966c319a67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hello, sign in</name>
+   <tag></tag>
+   <elementGuidId>e10c0597-1b1f-4d6e-ab45-9487a35acee0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav-line-1-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-link-accountList']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b05394ad-e3a1-4ae3-a1f3-ebc56f342cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-line-1-container</value>
+      <webElementGuid>136272f3-2304-450b-acaf-28e277d14962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello, sign in</value>
+      <webElementGuid>2f696ec6-7949-42ce-8cd4-184956b8ca22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-link-accountList&quot;)/div[@class=&quot;nav-line-1-container&quot;]</value>
+      <webElementGuid>3ef31646-57dd-418c-b802-806d32e3454b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav-link-accountList']/div</value>
+      <webElementGuid>ab31b1a2-b7fc-4a36-8f4b-02a4ae6429d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>c1e7c559-77f8-449e-916f-0993c534bfd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hello, sign in' or . = 'Hello, sign in')]</value>
+      <webElementGuid>19361278-6cbf-4e98-9cc9-5c79f6110f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

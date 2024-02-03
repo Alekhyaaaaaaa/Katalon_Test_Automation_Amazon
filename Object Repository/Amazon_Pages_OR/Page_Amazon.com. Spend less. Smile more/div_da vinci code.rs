@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_da vinci code</name>
+   <tag></tag>
+   <elementGuidId>7ce99e56-7c68-4a39-96e8-bcbacedf6210</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.s-suggestion.s-suggestion-ellipsis-direction</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>77afcc18-4d32-45be-8352-0672bce4addd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-suggestion s-suggestion-ellipsis-direction</value>
+      <webElementGuid>668509d8-93b1-44eb-bb19-ad08846518b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>516d2b8c-7949-4541-b4a7-668cd4313b82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>da vinci code</value>
+      <webElementGuid>de37e7ca-be2e-4b0d-b10d-6d0001509c10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>da vinci code</value>
+      <webElementGuid>2ad5190d-518d-4792-ae5e-ad4643e835ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-searchAjax&quot;)/div[@class=&quot;autocomplete-results-container&quot;]/div[@class=&quot;two-pane-results-container&quot;]/div[@class=&quot;left-pane-results-container&quot;]/div[1]/div[@class=&quot;s-suggestion-container&quot;]/div[@class=&quot;s-suggestion s-suggestion-ellipsis-direction&quot;]</value>
+      <webElementGuid>91f579b4-3a37-44a5-ac1f-b7a645613d7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div</value>
+      <webElementGuid>d5e7d01e-8d96-460f-b17a-89dfe4b1caff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>23404616-b39b-4319-bf6e-dec3cafd6696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'da vinci code' or . = 'da vinci code')]</value>
+      <webElementGuid>48572a70-302a-4785-a474-2cd7b8316509</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
